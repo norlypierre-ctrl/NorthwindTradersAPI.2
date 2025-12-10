@@ -1,7 +1,6 @@
 package com.pluralsight.NorthwindTradersAPI2.Controllers;
 
 import com.pluralsight.NorthwindTradersAPI2.Models.Category;
-import com.pluralsight.NorthwindTradersAPI2.Models.Product;
 import org.springframework.web.bind.annotation.*;
 
 
